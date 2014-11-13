@@ -29,7 +29,7 @@
             "run_at": "document_start"
         },
         {
-            "matches": ["*//ijjddabfogohnifbdhkolfkbkkceiceh/*"],
+            "matches": ["http://ijjddabfogohnifbdhkolfkbkkceiceh/*"],
             "js": ["oauth2/oauth2_inject.js"],
             "run_at": "document_start"
         }

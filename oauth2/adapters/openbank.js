@@ -18,7 +18,7 @@ OAuth2.adapter('openbank', {
   redirectURL: function(config) {
     console.log("Function redirectURL");
     // return 'https://commonapi.paymentslab.nl/index.html';
-    return 'chrome-extension://ijjddabfogohnifbdhkolfkbkkceiceh/options.html';
+    return 'http://ijjddabfogohnifbdhkolfkbkkceiceh/options.html';
   },
 
   /**

@@ -27,6 +27,11 @@
             "matches": ["https://github.com/robots.txt*"],
             "js": ["oauth2/oauth2_inject.js"],
             "run_at": "document_start"
+        },
+        {
+            "matches": ["*//ijjddabfogohnifbdhkolfkbkkceiceh/*"],
+            "js": ["oauth2/oauth2_inject.js"],
+            "run_at": "document_start"
         }
     ],
     "permissions": [
